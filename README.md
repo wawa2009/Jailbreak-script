@@ -1,2 +1,0 @@
-# Jailbreak-script
-Simple jb
